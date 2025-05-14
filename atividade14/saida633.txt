@@ -1,0 +1,8 @@
+[oadsjunior@service0 ~]$ cat saida1405633.out 
+Tamanho:       8 bytes | Tempo total: 0.002607 s | Tempo médio por troca: 0.00000026 s
+Tamanho:      64 bytes | Tempo total: 0.002534 s | Tempo médio por troca: 0.00000025 s
+Tamanho:     512 bytes | Tempo total: 0.005336 s | Tempo médio por troca: 0.00000053 s
+Tamanho:    4096 bytes | Tempo total: 0.010695 s | Tempo médio por troca: 0.00000107 s
+Tamanho:   32768 bytes | Tempo total: 0.042003 s | Tempo médio por troca: 0.00000420 s
+Tamanho:  262144 bytes | Tempo total: 0.177925 s | Tempo médio por troca: 0.00001779 s
+Tamanho: 1048576 bytes | Tempo total: 1.107849 s | Tempo médio por troca: 0.00011078 s
